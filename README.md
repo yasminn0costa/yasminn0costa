@@ -1,9 +1,9 @@
 ## Hi there 👋
 </p>
 
-### My pronuns are she/her
+### My pronouns are she/her
 
-### My name is Yasminn Costa and i´m a computer engineer student
+### My name is Yasminn Costa and i´m a computer engineering student
 
 ### I´m currently learning javascript, css and html!
 
